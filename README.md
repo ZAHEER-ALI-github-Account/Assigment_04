@@ -21,7 +21,9 @@ This repository contains a collection of Python projects covering various fundam
 - Simple GUI projects (if any)
 
 #Contributing: 
+
 Feel free to contribute by improving the code, adding more projects, or fixing bugs.
 
 #License: 
+
 This project is open-source and free to use.
