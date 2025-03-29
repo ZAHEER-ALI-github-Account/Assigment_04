@@ -1,6 +1,6 @@
 # Assigment_04
 
-#Description
+#Description: 
 This repository contains a collection of Python projects covering various fundamental to intermediate concepts. These projects were created as part of Assignment 4 to practice loops, expressions, functions, file handling, and other essential programming topics.
 
 #Features
@@ -19,8 +19,8 @@ This repository contains a collection of Python projects covering various fundam
 - Exception Handling
 - Simple GUI projects (if any)
 
-#Contributing
+#Contributing: 
 Feel free to contribute by improving the code, adding more projects, or fixing bugs.
 
-#License
+#License: 
 This project is open-source and free to use.
